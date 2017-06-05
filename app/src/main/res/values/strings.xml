@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidVRTutorial</string>
+    <string name="vr_welcome">Welcome into the Virtual Reality with GVRSDK</string>
+</resources>
